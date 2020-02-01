@@ -1,0 +1,27 @@
+
+  {"users":[
+        {
+        "userName":"admin",
+        "password":"admin"
+    },
+    {
+        "userName":"eswaribala",
+        "password":"vignesh"
+    },
+    {
+        "userName":"vigneshbala",
+        "password":"viki123"
+    },
+    {
+        "userName":"anshul",
+        "password":"anshul"
+    },
+    {
+        "userName":"deepa",
+        "password":"Admin"
+    },
+    {
+        "userName":"gaurav",
+        "password":"gaurav"
+    }
+]}
